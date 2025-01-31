@@ -5,14 +5,14 @@
 Olá, me chamo Guilherme Truta, tenho 15 anos e sou natural de Campina Grande, Paraíba. Atualmente, estou cursando o primeiro ano do ensino médio no IFPB. Sou apaixonado por tecnologia e compartilho alguns dos meus projetos aqui no GitHub. Nos meus projetos, procuro sempre solucionar problemas do dia a dia e criar ferramentas úteis para a comunidade. Meu objetivo é seguir carreira na área de tecnologia, contribuir para a inovação e continuar aprendendo sempre.
 
 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/guilhermetrutaa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/guilhermetrutaa?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
