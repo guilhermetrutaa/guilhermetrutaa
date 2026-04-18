@@ -51,14 +51,6 @@ missão: transformar ideias em sistemas
 
 ---
 
-## 🐍 Contribuições virando jogo
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guilhermetruta/guilhermetruta/output/snake.svg" />
-</p>
-
----
-
 ## 🧠 Mentalidade
 
 > Código não é só código.
@@ -69,7 +61,7 @@ missão: transformar ideias em sistemas
 ## 🌐 Contato
 
 <p align="center">
-  <a href="https://github.com/guilhermetruta">
+  <a href="https://github.com/guilhermetrutaa">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
   <a href="#">
