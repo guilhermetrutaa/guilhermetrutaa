@@ -1,58 +1,49 @@
 <h1 align="center">
-  Guilherme <span style="color:#ff5c00;">Truta</span>
+  Guilherme Truta
 </h1>
 
 <p align="center">
-  Desenvolvedor Front-End • Criando ideias que viram projetos
-</p>
-
-<br>
-
-<p align="center">
-  Estudante do IFPB (1º ano) apaixonado por tecnologia.<br>
-  Focado em desenvolvimento web com Next.js, TailwindCSS e soluções modernas.<br>
-  Sempre buscando transformar problemas reais em produtos úteis.
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/guilhermetrutaa">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Contato-ff5c00?style=for-the-badge"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=28&duration=3000&color=FF5C00&center=true&vCenter=true&width=600&lines=Sua+ideia+vira+projeto;Front-End+Developer;Next.js+%7C+Tailwind+%7C+UI+Design" />
 </p>
 
 ---
 
-## 🚀 Tecnologias
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git" />
+  Desenvolvedor focado em transformar ideias em produtos reais.<br>
+  Criando experiências modernas, rápidas e bem construídas.
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Tech Stack
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=guilhermetruta&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetruta&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,git" />
 </p>
 
 ---
 
-## ⚡ Sobre mim
+## 📊 Stats (modo hacker ativado)
 
-- 💻 Desenvolvedor Front-End
-- 📍 Campina Grande - PB
-- 🎯 Foco em projetos reais e impacto
-- 🚀 Criando a **Kodeo Agency**
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guilhermetruta&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetruta&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
+## 🔥 Streak (consistência = poder)
+
 <p align="center">
-  <i>"Sua ideia, vira projeto."</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermetruta&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🧠 Sobre mim
+
+```diff
++ 15 anos
++ Desenvolvedor Front-End
++ Criando a Kodeo Agency
++ Focado em projetos reais
