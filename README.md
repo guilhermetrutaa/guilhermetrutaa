@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=28&duration=3000&color=FF5C00&center=true&vCenter=true&width=600&lines=Sua+ideia+vira+projeto;Front-End+Developer;Next.js+%7C+Tailwind+%7C+UI+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=28&duration=3000&color=FF5C00&center=true&vCenter=true&width=600&lines=Sua+ideia+vira+projeto;Full-Satck+Developer;Next.js+%7C+Tailwind+%7C+UI+Design" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🧠 Sobre mim
 
 ```diff
-+ 15 anos
-+ Desenvolvedor Front-End
-+ Criando a Kodeo Agency
++ 16 anos
++ Desenvolvedor Full-Stack Junior
++ Ceo da Kodeo Agency
 + Focado em projetos reais
