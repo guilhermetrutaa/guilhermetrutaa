@@ -1,89 +1,118 @@
-# 👨‍💻 Guilherme Truta
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guilherme Truta</title>
 
-**`Desenvolvedor Front-End`**
+  <!-- Fonte Syne -->
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700&display=swap" rel="stylesheet">
 
-Olá, me chamo Guilherme Truta, tenho 15 anos e sou natural de Campina Grande, Paraíba. Atualmente, estou cursando o primeiro ano do ensino médio no IFPB. Sou apaixonado por tecnologia e compartilho alguns dos meus projetos aqui no GitHub. Nos meus projetos, procuro sempre solucionar problemas do dia a dia e criar ferramentas úteis para a comunidade. Meu objetivo é seguir carreira na área de tecnologia, contribuir para a inovação e continuar aprendendo sempre.
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
----
+    body {
+      font-family: 'Syne', sans-serif;
+      background-color: #0d0d0d;
+      color: #ffffff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+      padding: 20px;
+    }
 
-### 🤖 Linguagens e Tecnologias
+    .container {
+      max-width: 800px;
+    }
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    h1 {
+      font-size: 3rem;
+      font-weight: 700;
+    }
 
-<br/>
-<br/>
+    h1 span {
+      color: #ff5c00;
+    }
 
-### 📊 Estatísticas
+    p {
+      margin-top: 20px;
+      font-size: 1.1rem;
+      color: #b3b3b3;
+      line-height: 1.6;
+    }
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermetrutaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    .buttons {
+      margin-top: 30px;
+      display: flex;
+      gap: 15px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetrutaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    .btn {
+      padding: 12px 24px;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+    }
 
-</p>
+    .primary {
+      background-color: #ffffff;
+      color: #000000;
+    }
+
+    .primary:hover {
+      background-color: #e6e6e6;
+    }
+
+    .secondary {
+      border: 1px solid #ffffff;
+      color: #ffffff;
+    }
+
+    .secondary:hover {
+      background-color: #ffffff;
+      color: #000000;
+    }
+
+    .footer {
+      position: absolute;
+      bottom: 20px;
+      font-size: 0.8rem;
+      color: #666;
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <h1>Guilherme <span>Truta</span></h1>
+
+    <p>
+      Desenvolvedor Front-End apaixonado por transformar ideias em experiências digitais.
+      Estudante do IFPB, focado em criar soluções úteis, modernas e bem construídas.
+    </p>
+
+    <div class="buttons">
+      <a href="https://github.com/guilhermetruta" class="btn primary">Ver GitHub</a>
+      <a href="#" class="btn secondary">Entrar em contato</a>
+    </div>
+  </div>
+
+  <div class="footer">
+    © 2026 • Construído com código e café
+  </div>
+
+</body>
+</html>
